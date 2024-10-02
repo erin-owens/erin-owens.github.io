@@ -28,10 +28,18 @@ h1 {
 .projects{
     text-indent: 350px;
     color:midnightblue; 
-    font-family:cursive;
-    
+    font-family:cursive;  
     margin-top:25px;
+    display:flex; 
+    flex-wrap:wrap;
 }
+.project {
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: white; /* pick a color */
+    border-radius: 25%;
+ }
 .contact{
     text-indent: 350px;
     color:midnightblue; 
