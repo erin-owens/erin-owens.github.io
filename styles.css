@@ -1,19 +1,18 @@
 body {
     margin-top: 250px;
-    background-color:cadetblue;
+    background-color:rgb(15, 83, 85);
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-image:url("https://wallpaperaccess.com/full/2721511.jpg");
 
 }
 
 h1 {
     margin-top:100px;
-    color:midnightblue;
+    color:rgb(207, 207, 207);
     text-indent: 70px;
 }
 .about{
     text-indent: 350px;
-    color:midnightblue;
+    color:rgb(207, 207, 207);
     font-family:cursive;   
     margin-top:55px;
     display:flex;
@@ -36,14 +35,14 @@ h1 {
 }
 .skills{
     text-indent: 350px;
-    color:midnightblue;  
+    color:rgb(207, 207, 207);  
     font-family:cursive;
     
     margin-top:30px;
 }
 .projects{
     text-indent: 350px;
-    color:midnightblue; 
+    color:rgb(207, 207, 207); 
     font-family:cursive;  
     margin-top:25px;
     display:flex; 
@@ -66,7 +65,7 @@ h1 {
     }
 .contact{
     text-indent: 350px;
-    color:midnightblue; 
+    color:rgb(207, 207, 207); 
     font-family:cursive;
     
     margin-top:35px;
