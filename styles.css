@@ -10,7 +10,7 @@ h1 {
     text-indent: 70px;
 }
 .about{
-    text-indent: 350px;
+    
     color:rgb(207, 207, 207);
     font-family:cursive;   
     margin-top:55px;
@@ -33,14 +33,14 @@ h1 {
     line-height: 125%;
 }
 .skills{
-    text-indent: 350px;
+    
     color:rgb(207, 207, 207);  
     font-family:cursive;
     
     margin-top:30px;
 }
 .projects{
-    text-indent: 350px;
+   
     color:rgb(207, 207, 207); 
     font-family:cursive;  
     margin-top:25px;
@@ -63,7 +63,7 @@ h1 {
     margin: auto;
     }
 .contact{
-    text-indent: 350px;
+    
     color:rgb(207, 207, 207); 
     font-family:cursive;
     
