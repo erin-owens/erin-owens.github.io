@@ -9,6 +9,16 @@ h1 {
     color:rgb(207, 207, 207);
     text-indent: 70px;
 }
+h2{
+    color:rgb(207, 207, 207);
+    font-family:cursive;   
+    margin-top:55px; 
+}
+h3{
+    /* display:flex; 
+    flex-wrap:wrap; */
+    text-align: center;
+}
 .about{
     
     color:rgb(207, 207, 207);
@@ -46,13 +56,15 @@ h1 {
     margin-top:25px;
     display:flex; 
     flex-wrap:wrap;
+    text-align: center;
 }
 .project {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: rgba(203, 202, 202, 0.384); /* pick a color */
+    background: rgba(203, 202, 202, 0.384); 
     border-radius: 25%;
+    
  }
  .project img{
     width: 300px;
@@ -62,6 +74,9 @@ h1 {
     display: block;
     margin: auto;
     }
+.project a{
+    text-align: center;
+}
 .contact{
     
     color:rgb(207, 207, 207); 
